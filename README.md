@@ -1,3 +1,3 @@
 # thuzraf.github.io
 
-Personal testing
+Testing
